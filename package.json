@@ -1,0 +1,24 @@
+{
+  "name": "super_vegito",
+  "version": "1.0.1",
+  "description": "Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "dependencies": {
+    "better-sqlite3": "^7.4.3",
+    "colors": "^1.4.0",
+    "convert-svg-to-png": "^0.5.0",
+    "discord.js": "^13.1.0",
+    "math.js": "^1.1.46",
+    "mathjax-node": "^2.1.1",
+    "mathjs": "^9.4.4",
+    "random": "^3.0.6"
+  }
+}
